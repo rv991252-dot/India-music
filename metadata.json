@@ -1,0 +1,6 @@
+{
+  "name": "Music India",
+  "description": "म्यूजिक इंडिया - भारत का प्रीमियम म्यूजिक स्ट्रीमिंग ऐप। हिंदी, पंजाबी, तमिल, तेलुगू और इंग्लिश गानों का विशाल संग्रह।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
